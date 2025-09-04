@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://tinyurl.com/sam-cv1](https://tinyurl.com/sam-cv1)
 
-- ⚡ Passionate about **ethical hacking, digital defense, and building a career as a Security Analyst.
+- ⚡ Passionate about **ethical hacking, digital defense, and building a career as a Security Analyst**.
 
 
 ## 🌐 Socials:
