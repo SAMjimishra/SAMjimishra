@@ -5,7 +5,7 @@
 
 - 🌱 I’m learning and exploring **Networking, Cybersecurity, and gaining hands-on experience through real-world projects.**
 
-- 💬 Ask me about **Cybersecurity, Network Security, and Vulnerability Assessment**
+- 💬 Ask me about  **Cybersecurity, Network Security, and Vulnerability Assessment**
 
 - 📫 How to reach me **samishra.0030@gmail.com**
 
