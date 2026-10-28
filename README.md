@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **samishra.030@gmail.com**
 
-- 
+- 📫 How to reach me https://whosam.netlify.app/
 
 - ⚡ Passionate about **ethical hacking, digital defense, and building a career as a Security Analyst**.
 
